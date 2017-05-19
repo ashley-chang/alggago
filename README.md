@@ -6,3 +6,6 @@
     gem install chipmunk
     gem install slave
     ruby alggago.rb
+
+
+- `gem install childprocess --platform=ruby`
